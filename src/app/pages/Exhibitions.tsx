@@ -1,4 +1,5 @@
 "use client";
+import "./test.css";
 
 import { Button } from "@/components/ui/button";
 
@@ -24,6 +25,9 @@ export default function Exhibitions() {
                 A short description of the page or application goes here.
               </p>
             </div>
+          </div>
+          <div className="box">
+            <p>Test</p>
           </div>
           <DropdownMenu>
             <DropdownMenuTrigger asChild>
