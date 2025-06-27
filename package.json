@@ -1,7 +1,7 @@
 {
-	"name": "lions-kunst-debug",
+	"name": "rwsdk-debug",
 	"version": "1.0.0",
-	"description": "Lions Kunst - A modern web application",
+	"description": "RWS SDK - A modern web application",
 	"main": "index.js",
 	"type": "module",
 	"keywords": [],
@@ -27,7 +27,7 @@
 		"@tailwindcss/vite": "^4.1.11",
 		"class-variance-authority": "^0.7.1",
 		"clsx": "^2.1.1",
-		"dotenv": "^16.5.0",
+		"dotenv": "^16.6.0",
 		"lucide-react": "^0.515.0",
 		"nanoid": "^5.1.5",
 		"rwsdk": "^0.1.3",
